@@ -1,2 +1,2 @@
-# multi-currency-converter
+# global-currency-converter
 A npm package to convert currency 

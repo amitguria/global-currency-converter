@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amitguria/multi-currency-converter.git"
+    "url": "git+https://github.com/amitguria/global-currency-converter.git"
   },
   "keywords": [
     "npm"
@@ -17,9 +17,9 @@
   "author": "Amit Guria",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/amitguria/multi-currency-converter/issues"
+    "url": "https://github.com/amitguria/global-currency-converter/issues"
   },
-  "homepage": "https://github.com/amitguria/multi-currency-converter#readme",
+  "homepage": "https://github.com/amitguria/global-currency-converter#readme",
   "dependencies": {
     "@everapi/freecurrencyapi-js": "^1.0.1"
   }
