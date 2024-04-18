@@ -1,5 +1,5 @@
 {
-  "name": "multi-currency-converter",
+  "name": "global-currency-converter",
   "version": "1.0.0",
   "description": "A npm package to convert currency",
   "main": "index.js",
